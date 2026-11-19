@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "284743142117",
+    "firebase_url": "https://movieplanner-100-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "movieplanner-100",
+    "storage_bucket": "movieplanner-100.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284743142117:android:28548211c37f22a2ea620c",
+        "android_client_info": {
+          "package_name": "com.example.mpv01"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJJs47pTjnZiNHNC5Ez34q-bH0lfuqPf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284743142117:android:43d4b5372e04ec58ea620c",
+        "android_client_info": {
+          "package_name": "com.example.mpv4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJJs47pTjnZiNHNC5Ez34q-bH0lfuqPf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
